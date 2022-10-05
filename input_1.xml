@@ -1,0 +1,5 @@
+<root>
+    <newman name = "John" surname = "Newman"/>
+    <daniel name = "Daniel" cat = "Jerry" dog = "Sally"/> 
+    <jerry name = "Andy" surname = "Nowak"/>
+</root>
